@@ -11,7 +11,7 @@ namespace SK.CFInfestations
             Harmony instance = new Harmony("rimworld.sk.cfinfestations");
             HarmonyPatcher.instance = instance;
 
-            LongEventHandler.ExecuteWhenFinished(Init);
+            LongEventHandler.QueueLongEvent(Init, "Sk.CFInfestations.Init", true, null);
         }
 
         public void Init()
