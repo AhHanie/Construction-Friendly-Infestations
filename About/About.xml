@@ -18,6 +18,6 @@
       <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
     </li>
   </modDependencies>
-  <modVersion>1.1.1</modVersion>
+  <modVersion>1.1.2</modVersion>
   <description>Infestations will avoid spawning at buildings/furniture</description>
 </ModMetaData>
