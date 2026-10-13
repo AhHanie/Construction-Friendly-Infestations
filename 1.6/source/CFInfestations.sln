@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36301.6 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFInfestations", "CFInfestations.csproj", "{68D9B052-76FD-4915-B266-1776DC98C6CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "..\..\Rimworld Source Code\Assembly-CSharp.csproj", "{89D5C019-BE0C-084B-54A0-7DD38DC06E97}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "..\..\..\Rimworld Source Code\Assembly-CSharp.csproj", "{89D5C019-BE0C-084B-54A0-7DD38DC06E97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
